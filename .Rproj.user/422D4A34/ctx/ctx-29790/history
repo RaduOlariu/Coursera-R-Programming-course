@@ -1,0 +1,64 @@
+x<-0:6
+as.numeric(x)
+as.character(x)
+as.logical(x)
+m<-matrix(nrow = 3, ncol = 3)
+m
+dim(m)
+attributes(m)
+n<-matrix(1:8, nrow = 3, ncol = 3)
+n<-matrix(1:9, nrow = 3, ncol = 3)
+n
+m<-1:10
+dim(m)<-c(3,3)
+dim(m)<-c(5,2)
+m
+dim(m)<-c(2,5)
+m
+y<-2:7
+cbind(x,y)
+y<-:7
+y<-1:7
+cbind(x,y)
+rbind(x,y)
+o<-rbind(y,x)
+0
+o
+cbind(x,y)
+rbind(x,y)
+f<-factor(c("male", "female", "male", "female", "female"))
+f
+unclass(f)
+f(1)
+f.1
+f{1}
+f[1]
+f[1:3]
+read.csv(cryo test.csv)
+cryo_test <- read.csv(cryo test.csv)
+library(readr)
+cryo_test <- read.csv(cryo test.csv)
+cryo_test <- read_csv(cryo test.csv)
+cryo_test <- read_csv("cryo test.csv")
+cryo_test <- read_csv("cryo test.csv")
+row.names(cryo_test)
+cryo_test <- read_csv("cryo test.csv")
+names(cryo_test)
+cryo_test[,1]
+cryo_test[1]
+row(cryo_test)
+cryo_test
+row.names(cryo_test)
+temp<-c(Bayaraa
+Castillo_left
+Castillo_right
+Grobben
+Knecht
+Schmidhalter
+Stelitano
+Gossweiler
+Apputhurai
+N'Djeka Tshilumba
+Käser
+Wüthrich)
+cryo_test

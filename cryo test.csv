@@ -1,0 +1,13 @@
+Patient_names,Pigmentation_preop,Pigmentation_postop,OBS_Thickness_preop,OBS_Thickness_postop,Pliability_preop,Pliability_postop,Total_Observer_Score_preop,Total_Observer_Score_postop
+Bayaraa,3,4,6,2,8,2,27,15
+Castillo_left,2,2,7.5,2,5.5,3,21.5,11.5
+Castillo_right,2,4,4,4,4,3,16,17
+Grobben,8,4,6,2,6,3,31,13
+Knecht,5.5,2,9.5,3,8,1,36,11
+Schmidhalter,8,6,8,4,9,4,42,23
+Stelitano,7,4,7,3.5,8,4.5,38,21.5
+Gossweiler,6.5,3,8.5,1,7.5,1,36.5,8
+Apputhurai,3,4.5,8.5,4,9,5,32,17
+N'Djeka Tshilumba,3.5,7.5,5.5,3,4.5,3,21,19
+Kaeser,4,2,5,1,4,1,23,7
+Wuethrich,7,4.333,7,3,7,2.667,36,17.667
